@@ -1,0 +1,9 @@
+name: Tales of Murder
+description: a murder mystery short story site
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalinks: pretty
