@@ -4,19 +4,25 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 5, ../_sass/_partials/_header.scss */
+/* line 6, ../_sass/_partials/_header.scss */
+.mastheadIMG {
+  max-width: 80%;
+  height: auto;
+  margin: 1rem 2rem; }
+
+/* line 14, ../_sass/_partials/_header.scss */
 .title {
   font-size: 1.75rem;
   color: white;
   margin: 0;
   padding: 0;
   text-align: center; }
-  /* line 11, ../_sass/_partials/_header.scss */
+  /* line 20, ../_sass/_partials/_header.scss */
   .title span {
     color: red;
     text-transform: uppercase; }
 
-/* line 18, ../_sass/_partials/_header.scss */
+/* line 27, ../_sass/_partials/_header.scss */
 .tagline {
   margin: 0 0 1rem 0;
   padding: 0;
@@ -24,12 +30,12 @@
   font-weight: 400;
   letter-spacing: 0.1rem;
   color: white; }
-  /* line 25, ../_sass/_partials/_header.scss */
+  /* line 34, ../_sass/_partials/_header.scss */
   .tagline span {
     color: red;
     font-style: italic; }
 
-/* line 31, ../_sass/_partials/_header.scss */
+/* line 40, ../_sass/_partials/_header.scss */
 hr {
   background: red;
   height: 3px;
