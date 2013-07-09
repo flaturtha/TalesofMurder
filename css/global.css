@@ -52,34 +52,74 @@ hr {
 html, body {
   overflow-x: hidden; }
 
-/* line 26, ../_sass/global.scss */
+/* line 13, ../_sass/global.scss */
+p {
+  font-family: sans-serif; }
+
+/* line 30, ../_sass/global.scss */
 .center {
   display: block;
   margin: 0 auto; }
 
-/* line 31, ../_sass/global.scss */
+/* line 35, ../_sass/global.scss */
 .landingPage {
   background-color: #222;
   margin-top: 1rem; }
 
-/* line 36, ../_sass/global.scss */
+/* line 40, ../_sass/global.scss */
 .innerWrapper {
   background-color: #2f2f2f;
   color: #fff;
   width: 80%;
   margin: 1rem auto;
   padding: 2rem; }
-  /* line 43, ../_sass/global.scss */
+  /* line 47, ../_sass/global.scss */
   .innerWrapper p {
     margin-bottom: 1rem; }
-  /* line 46, ../_sass/global.scss */
+  /* line 50, ../_sass/global.scss */
   .innerWrapper ul {
     width: 75%; }
 
-/* line 53, ../_sass/global.scss */
+/* line 57, ../_sass/global.scss */
 .clickthruTop {
   max-width: 50%;
   margin: 1rem auto; }
-  /* line 56, ../_sass/global.scss */
+  /* line 60, ../_sass/global.scss */
   .clickthruTop img {
     width: 100%; }
+  @media (min-width: 760px) {
+    /* line 57, ../_sass/global.scss */
+    .clickthruTop {
+      position: absolute;
+      right: 65px;
+      top: 55px; } }
+
+/* line 70, ../_sass/global.scss */
+.infoBlock {
+  margin: 0 auto;
+  width: 90%; }
+
+/* line 76, ../_sass/global.scss */
+.infoBlock1, .infoBlock2, .infoBlock3 {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  padding: 0.75rem; }
+  /* line 83, ../_sass/global.scss */
+  .infoBlock1 h2, .infoBlock2 h2, .infoBlock3 h2 {
+    color: yellow; }
+  /* line 86, ../_sass/global.scss */
+  .infoBlock1 em, .infoBlock2 em, .infoBlock3 em {
+    color: yellow; }
+  /* line 89, ../_sass/global.scss */
+  .infoBlock1 p, .infoBlock2 p, .infoBlock3 p {
+    font-size: 1.2rem; }
+  @media (min-width: 760px) {
+    /* line 76, ../_sass/global.scss */
+    .infoBlock1, .infoBlock2, .infoBlock3 {
+      max-width: 30%;
+      float: left; }
+      /* line 95, ../_sass/global.scss */
+      .infoBlock1 .infoBlock3, .infoBlock2 .infoBlock3, .infoBlock3 .infoBlock3 {
+        float: right; } }

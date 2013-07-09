@@ -11,17 +11,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_sass\/global.scss" : {
+    "\/img\/header_stacked.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/global.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/global.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/header_stacked.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header_stacked.png",
+      "initialSize" : 31240,
+      "fileType" : 8192
+    },
+    "\/_layouts\/landingpage1.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_layouts\/landingpage1.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/_partials\/_header.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -35,15 +43,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/css\/global.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/global.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_site\/img\/header_stacked.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -52,17 +51,6 @@
       "inputAbbreviatedPath" : "\/_site\/img\/header_stacked.png",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_site\/img\/header_stacked.png",
-      "initialSize" : 31240,
-      "fileType" : 8192
-    },
-    "\/img\/header_stacked.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/header_stacked.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/header_stacked.png",
       "initialSize" : 31240,
       "fileType" : 8192
     },
@@ -76,6 +64,18 @@
       "outputAbbreviatedPath" : "\/img\/header_simp.png",
       "initialSize" : 54189,
       "fileType" : 8192
+    },
+    "\/_sass\/global.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/global.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/global.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
@@ -97,26 +97,6 @@
       "initialSize" : 54189,
       "fileType" : 8192
     },
-    "\/_posts\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_posts\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/blank.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/blank.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/blank-ck.js",
-      "fileType" : 64
-    },
     "\/img\/clickthru_button.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -137,14 +117,34 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_site\/index.html" : {
+    "\/js\/blank.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "inputAbbreviatedPath" : "\/js\/blank.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/blank-ck.js",
+      "fileType" : 64
+    },
+    "\/_posts\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_posts\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_site\/css\/global.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/css\/global.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/css\/_partials\/header.css" : {
       "ignoreWasSetByUser" : 0,
@@ -167,6 +167,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/img\/clickthru_button.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -177,15 +186,6 @@
       "outputAbbreviatedPath" : "\/_site\/img\/clickthru_button.png",
       "initialSize" : 7839,
       "fileType" : 8192
-    },
-    "\/_layouts\/landingpage1.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/landingpage1.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_site\/js\/blank.js" : {
       "ignoreWasSetByUser" : 0,

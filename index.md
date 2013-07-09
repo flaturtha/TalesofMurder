@@ -3,13 +3,13 @@ title: Prelaunch Landing Page
 layout: landingpage1
 ---
 
-* Are your bookshelves at home lined with worn out trade paperback novels from authors like Dashiell Hammett, Raymond Chandler, Agatha Christie and other great murder mystery writers?
+<!-- * Are your bookshelves at home lined with worn out trade paperback novels from authors like Dashiell Hammett, Raymond Chandler, Agatha Christie and other great murder mystery writers?
 
 * Do you haunt used bookstores, garage sales and eBay searching for a undiscovered story that’ll keep you up far too late tonight?
 
 * Have you ever stepped into traffic because your nose was stuck in a book?
 
-* Ever gotten away with murder and wondered if anyone knew?
+* Ever gotten away with murder and wondered if anyone knew? -->
 
 We can help you with all but the last question because TalesofMurder.com is a site created specifically for rabid fans of murder mystery stories!
 

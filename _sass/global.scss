@@ -10,6 +10,10 @@ html, body {
   overflow-x: hidden;
 }
 
+p {
+  font-family: sans-serif;
+}
+
 // li {
 //   list-style: none;
 // }
@@ -55,6 +59,42 @@ html, body {
     margin: 1rem auto;
   img {
     width: 100%;
+  }
+  @media (min-width: 760px) {
+    position: absolute;
+    right: 65px;
+    top: 55px;
+  }
+}
+
+.infoBlock {
+  // border: 1px dotted purple;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.infoBlock1, .infoBlock2, .infoBlock3 {
+  // border: 1px dashed orange;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  padding: 0.75rem;
+  h2 {
+    color: yellow;
+  }
+  em {
+    color: yellow;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  @media (min-width: 760px) {
+    max-width: 30%;
+    float: left;
+    .infoBlock3 {
+      float: right;
+    }
   }
 }
 
