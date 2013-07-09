@@ -7,3 +7,5 @@ paginate: 10
 
 markdown: rdiscount
 permalinks: pretty
+
+exclude: ['README.md', 'codekit-config.json', 'config.rb', '.gitignore', '.DS_Store']
