@@ -34,10 +34,10 @@ html, body {
 }
 
 .innerWrapper {
-  // background-color: #fff;
+  background-color: lighten(#222, 10%);
   // border: 1px solid purple;
   color: #fff;
-  // width: 80%;
+  width: 80%;
   margin: 1rem auto;
   padding: 2rem;
   p {

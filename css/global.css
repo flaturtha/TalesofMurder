@@ -53,7 +53,9 @@ html, body {
 
 /* line 36, ../_sass/global.scss */
 .innerWrapper {
+  background-color: #3c3c3c;
   color: #fff;
+  width: 80%;
   margin: 1rem auto;
   padding: 2rem; }
   /* line 43, ../_sass/global.scss */
