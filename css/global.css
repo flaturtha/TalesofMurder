@@ -1,17 +1,64 @@
-/* line 5, ../_sass/_partials/header.scss */
+/* line 14, ../_sass/_partials/_bits.scss */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* line 5, ../_sass/_partials/_header.scss */
 .title {
-  font-size: 2.75rem;
-  color: red;
+  font-size: 1.75rem;
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+  /* line 11, ../_sass/_partials/_header.scss */
+  .title span {
+    color: red;
+    text-transform: uppercase; }
+
+/* line 18, ../_sass/_partials/_header.scss */
+.tagline {
+  margin: 0 0 1rem 0;
+  padding: 0;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  color: white; }
+  /* line 25, ../_sass/_partials/_header.scss */
+  .tagline span {
+    color: red;
+    font-style: italic; }
+
+/* line 31, ../_sass/_partials/_header.scss */
+hr {
+  background: red;
+  height: 3px;
+  width: 80%;
+  border: none;
+  margin: 0 auto; }
+
+/* line 4, ../_sass/global.scss */
+* {
   margin: 0;
   padding: 0; }
 
-/* line 3, ../_sass/global.scss */
-.landingPage {
-  background-color: #222; }
+/* line 9, ../_sass/global.scss */
+html, body {
+  overflow-x: hidden; }
 
-/* line 7, ../_sass/global.scss */
-.pageWrap {
+/* line 31, ../_sass/global.scss */
+.landingPage {
+  background-color: #222;
+  margin-top: 1rem; }
+
+/* line 36, ../_sass/global.scss */
+.innerWrapper {
   color: #fff;
-  width: 75%;
-  margin: 0 auto;
-  padding: 1em; }
+  margin: 1rem auto;
+  padding: 2rem; }
+  /* line 43, ../_sass/global.scss */
+  .innerWrapper p {
+    margin-bottom: 1rem; }
+  /* line 46, ../_sass/global.scss */
+  .innerWrapper ul {
+    width: 75%; }

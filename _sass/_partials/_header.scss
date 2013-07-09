@@ -1,0 +1,37 @@
+//--------------------------------------------
+// HEADER STYLES
+//--------------------------------------------
+
+.title {
+  font-size: 1.75rem;
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  span {
+    color: red;
+    text-transform: uppercase;
+    // @include rotate(-5deg); **not working!
+  }
+}
+
+.tagline {
+  margin: 0 0 1rem 0;
+  padding: 0;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  color: white;
+  span {
+    color: red;
+    font-style: italic;
+  }
+}
+
+hr {
+  background: red;
+  height: 3px;
+  width: 80%;
+  border: none;
+  margin: 0 auto;
+}

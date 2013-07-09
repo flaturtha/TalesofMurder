@@ -1,14 +1,64 @@
-@import "_partials/header.scss";
+@import "_partials/bits";
+@import "_partials/header";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+// li {
+//   list-style: none;
+// }
+
+// body {
+//   background: #000;
+// }
+
+// .pageWrap {
+//   background-color: #fff;
+//   @include clearfix;
+// }
+
+// .center {
+//   display: block;
+//   margin: 0 auto;
+// }
 
 .landingPage {
   background-color: #222;
+  margin-top: 1rem;
 }
 
-.pageWrap {
+.innerWrapper {
   // background-color: #fff;
   // border: 1px solid purple;
   color: #fff;
-  width: 75%;
-  margin: 0 auto;
-  padding: 1em;
+  // width: 80%;
+  margin: 1rem auto;
+  padding: 2rem;
+  p {
+    margin-bottom: 1rem;
+  }
+  ul {
+    width: 75%;
+    // text-align: center;
+    // font-size: 1.5rem;
+  }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
