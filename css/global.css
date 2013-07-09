@@ -52,6 +52,11 @@ hr {
 html, body {
   overflow-x: hidden; }
 
+/* line 26, ../_sass/global.scss */
+.center {
+  display: block;
+  margin: 0 auto; }
+
 /* line 31, ../_sass/global.scss */
 .landingPage {
   background-color: #222;
@@ -59,7 +64,7 @@ html, body {
 
 /* line 36, ../_sass/global.scss */
 .innerWrapper {
-  background-color: #3c3c3c;
+  background-color: #2f2f2f;
   color: #fff;
   width: 80%;
   margin: 1rem auto;
@@ -70,3 +75,11 @@ html, body {
   /* line 46, ../_sass/global.scss */
   .innerWrapper ul {
     width: 75%; }
+
+/* line 53, ../_sass/global.scss */
+.clickthruTop {
+  max-width: 50%;
+  margin: 1rem auto; }
+  /* line 56, ../_sass/global.scss */
+  .clickthruTop img {
+    width: 100%; }
