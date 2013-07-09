@@ -1,3 +1,5 @@
 _site/
 .DS_Store
 README.md
+*.json
+*.rb
