@@ -1,0 +1,7 @@
+/* line 5, ../../_sass/_partials/header.scss */
+.title {
+  font-size: 2em; }
+  /* line 7, ../../_sass/_partials/header.scss */
+  .title em {
+    color: red;
+    text-transform: uppercase; }

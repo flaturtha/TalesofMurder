@@ -1,11 +1,17 @@
-/* line 1, ../_sass/global.scss */
+/* line 5, ../_sass/_partials/header.scss */
+.title {
+  font-size: 2.75rem;
+  color: red;
+  margin: 0;
+  padding: 0; }
+
+/* line 3, ../_sass/global.scss */
 .landingPage {
   background-color: #222; }
 
-/* line 5, ../_sass/global.scss */
+/* line 7, ../_sass/global.scss */
 .pageWrap {
-  background-color: #fff;
-  color: #222;
-  width: 90%;
+  color: #fff;
+  width: 75%;
   margin: 0 auto;
   padding: 1em; }

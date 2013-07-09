@@ -1,11 +1,14 @@
+@import "_partials/header.scss";
+
 .landingPage {
   background-color: #222;
 }
 
 .pageWrap {
-  background-color: #fff;
-  color: #222;
-  width: 90%;
+  // background-color: #fff;
+  // border: 1px solid purple;
+  color: #fff;
+  width: 75%;
   margin: 0 auto;
   padding: 1em;
 }
