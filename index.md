@@ -1,6 +1,6 @@
 ---
 title: Prelaunch Landing Page
-layout: default
+layout: landingpage1
 ---
 
 * Are your bookshelves at home lined with worn out trade paperback novels from authors like Dashiell Hammett, Raymond Chandler, Agatha Christie and other great murder mystery writers?
@@ -36,6 +36,8 @@ I can let you in on a little secret. Because you’re a REAL fan of murder myste
 Lean in a little closer and let me explain. 
 
 That’s it ... a little closer ... we don’t want just anybody to get in on this deal but if you click the big yellow button below, you’ll be taken to a special page for REAL murder mystery fans where we’ll tell you all about what you can get by signing up. Go on. You know you wanna click that button.
+
+<a href="/prelaunch_offer/"></a>
 
   
 

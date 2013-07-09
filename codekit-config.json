@@ -2,17 +2,6 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8316",
   "files" : {
-    "\/_site\/assets\/img\/header_simp.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/assets\/img\/header_simp.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/assets\/img\/header_simp.png",
-      "initialSize" : 54189,
-      "fileType" : 8192
-    },
     "\/_includes\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -22,14 +11,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/assets\/css\/global.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
+    "\/_sass\/global.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/assets\/css\/global.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/_sass\/global.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/global.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/_layouts\/landingpage1.html" : {
       "ignoreWasSetByUser" : 0,
@@ -40,15 +32,35 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/assets\/img\/clickthru_button.png" : {
+    "\/_site\/css\/global.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/assets\/img\/clickthru_button.png",
+      "inputAbbreviatedPath" : "\/_site\/css\/global.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_site\/img\/clickthru_button.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/clickthru_button.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/assets\/img\/clickthru_button.png",
+      "outputAbbreviatedPath" : "\/_site\/img\/clickthru_button.png",
       "initialSize" : 7839,
+      "fileType" : 8192
+    },
+    "\/img\/header_simp.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/header_simp.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header_simp.png",
+      "initialSize" : 54189,
       "fileType" : 8192
     },
     "\/config.rb" : {
@@ -60,6 +72,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
+    "\/img\/clickthru_button.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/clickthru_button.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/clickthru_button.png",
+      "initialSize" : 7839,
+      "fileType" : 8192
+    },
     "\/_posts\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -69,27 +92,35 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/_sass\/global.scss" : {
+    "\/js\/blank.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/_sass\/global.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/global.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/js\/blank.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/blank-ck.js",
+      "fileType" : 64
     },
-    "\/assets\/img\/clickthru_button.png" : {
+    "\/css\/global.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/global.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_site\/img\/header_simp.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/clickthru_button.png",
+      "inputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/clickthru_button.png",
-      "initialSize" : 7839,
+      "outputAbbreviatedPath" : "\/_site\/img\/header_simp.png",
+      "initialSize" : 54189,
       "fileType" : 8192
     },
     "\/_site\/index.html" : {
@@ -101,25 +132,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/img\/header_simp.png" : {
+    "\/_site\/js\/blank.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/header_simp.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/header_simp.png",
-      "initialSize" : 54189,
-      "fileType" : 8192
-    },
-    "\/assets\/css\/global.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/global.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/_site\/js\/blank.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_site\/js\/blank-ck.js",
+      "fileType" : 64
     }
   },
   "manualImportLinks" : [
