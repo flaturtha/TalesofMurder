@@ -8,4 +8,4 @@ paginate: 10
 markdown: rdiscount
 permalinks: pretty
 
-auto: true
+# auto: true
